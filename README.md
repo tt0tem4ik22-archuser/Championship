@@ -8,13 +8,12 @@
 
    ```shell
    git clone https://github.com/tt0tem4ik22-archuser/Championship.git
-   cd Championship```
+   cd Championship
    
 
 3. Запустите программу:
 
-    
-
+    ```shell
     python main.py
     
 
