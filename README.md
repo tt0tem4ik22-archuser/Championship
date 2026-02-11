@@ -11,8 +11,8 @@
 
    
 
-   git clone https://github.com/ваш_пользователь/название_проекта.git
-   cd название_проекта
+   git clone https://github.com/tt0tem4ik22-archuser/Championship.git
+   cd Championship
    
 
 3. Запустите программу:

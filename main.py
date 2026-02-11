@@ -164,7 +164,7 @@ def main():
 
     print("WARNING: calculations would take some time, please be patient")
 
-    winner, final, medal = count_probability(group_a, group_b, 100)
+    winner, final, medal = count_probability(group_a, group_b, 10000)
 
     print("winner: ", winner, "\nfinal: ", final, "\nmedal: ", medal)
 
